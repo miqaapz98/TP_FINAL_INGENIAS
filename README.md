@@ -23,3 +23,6 @@ La fuente de información se obtuvo de la página de Kaggle, el archivo se llama
 Como en Argentina hay escasa información pública sobre fraudes, este dataset simula un escenario del X Banco .
 
 KAGGLE : https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction
+
+## ANALISIS EXPLORAROTIO 
+Se exploro e dataset para encontrar las variables que se destaquen en el dataset 
