@@ -1,5 +1,6 @@
 # TP_FINAL_INGENIAS
 Contiene los archivos de las pre-entregas que fueron corregidas y ayudaron en la presentacion 
+link de la presentacion final : https://drive.google.com/file/d/1uG6VAitp3cD9JopZdj8PCeH9yMz_eDax/view?usp=sharing
 ### Autor 
 
 **Micaela Perez (ex-integrante del gr3)** 
